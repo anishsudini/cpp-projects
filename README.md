@@ -1,2 +1,13 @@
 # cpp-projects
-Projects from OOP C++ University Classes
+Projects using OOP C++ Techniques:
+* Classes
+* Objects
+* Hashing
+* Templates
+* Inheritance
+* Containers
+* Iterators
+* Generic Prog.
+* Overloading
+* Multithreading/Parallelism
+  
